@@ -1,0 +1,13 @@
+marquee{
+    text-shadow:3px 3px 3px rgba(127, 181, 190, 0.724);
+    color:rgb(146, 23, 23);
+    font-size: 28px;
+}
+img{
+    height:150px;
+    width:150px;
+    margin-left:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:10px;
+}

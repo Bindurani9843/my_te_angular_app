@@ -1,0 +1,42 @@
+<marquee>Your Favourite Ethnic Destination</marquee>
+<!--fetch all the records from fridge property in the .ts file which is accessing the refrigerator.json-->
+<div *ngFor="let k of kurtis" style="border:none;">
+    <div class="row">
+        <!--1st column-->
+        <div class="col col-lg-3">
+            <!--Property Binding-->
+            <img [src]="k.img" class="prodimg">
+        </div>
+        <!--2nd column-->
+        <div class="card col-lg-6" style="border:none;">
+            <div class="card-body col-lg-12">
+                <div class="row" style="margin-top:10px;border-style:solid;border-color:black;border-radius:15px;">
+                    <div class="col-lg-3">
+                        <!--Property Binding-->
+                        <img [src]="k.img">
+                    </div>
+                    <div class="col-lg-9" style="margin-top:20px;">
+                        <!--Interpolation Binding-->
+                        <div>
+                            Product: {{k.pname | uppercase}}
+                            <span (click)="showproductDetailsToggle()" [ngClass]="toggleContent()"></span>
+                        </div>
+                        <hr>
+                        <div [hidden]="productDetail">
+                            Description: {{k.pdescription}}
+                            <br>
+                            Price: {{k.price | currency:'INR'}}
+                            <br>
+                            <app-counter></app-counter>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--3rd column-->
+        <div class="col col-lg-3">
+            <!--Property Binding-->
+            <img [src]="k.img" class="prodimg">
+        </div>
+    </div>
+</div>

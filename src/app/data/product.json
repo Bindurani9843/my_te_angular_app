@@ -1,0 +1,54 @@
+[
+    {
+        "pid":1,
+        "pname":"Kids Dress",
+        "pdescription":"Kids dress for girls between 8-10 years old",
+        "price":2000,
+       "Status":"In Stock",
+    
+        "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14787362/2022/7/28/6969c1d4-209d-4d8d-814e-89e0d79007a81659031779178pspeachesGirlsYellowLeheriyaPureCottonKurtawithPalazzosWithD1.jpg"
+    },
+    {"pid":2,
+    "pname":"Kids Toys",
+    "pdescription":"Kids toys for girls between 4-6 years old",
+    "price":1200,
+    "Status":"In Stock",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HgA9959WV4k0WKCSDBSqDUj8RTgZ24kltw&usqp=CAU"
+},
+   
+    {"pid":3,
+        "pname":"Jabra Headphones",
+        "pdescription":"Jabra iconic headphones",
+        "price":1750,
+        "Status":"Out of Stock",
+        
+        "img":"https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1"
+    },
+ 
+    
+    {"pid":4,
+        "pname":"Kurtis",
+        "pdescription":"This Kurta & Kurti Sets item by DDsFashionStore has 715 favorites from Etsy shoppers.",
+        "price":1800,
+        "Status":"In Stock",
+        "img":"https://i.etsystatic.com/27398764/r/il/07630d/3177497022/il_570xN.3177497022_6wwb.jpg"
+    },
+    {
+        "pid":5,
+        "pname":"Jacket",
+        "pdescription":"Farah hardy jacket",
+        "price":6000,
+        "Status":"Out of stock",
+    
+        "img":"https://cdna.lystit.com/200/250/tr/photos/trouva/510e69ab/farah--Chaqueta-con-capucha-Westchester.jpeg"
+    },
+    {
+        "pid":6,
+        "pname":"Sarees",
+        "pdescription":"Kanchipuram Saree",
+        "price":15000,
+        "Status":"In Stock",
+    
+        "img":"https://cdn.shopify.com/s/files/1/1760/4649/products/kanjivaram-saree-magenta-pink-kanjivaram-saree-silk-saree-online-24457544106177_300x.jpg?v=1648551433"
+    }
+]

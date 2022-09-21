@@ -1,0 +1,44 @@
+[
+    {
+        "pid":1,
+        "pname":"Kanjeevaram Saree",
+        "pdescription":"Vivacious colors, royal borders, and the rich silk give Kanjeevaram Saree an ornate aura.",
+        "price":50000,
+        "img":"https://images.bewakoof.com/utter/content/4460/content_Kanjeevaram_Saree_-_Different_Types_of_Sarees.png"
+    },
+    {
+        "pid":2,
+        "pname":"Banarasi saree",
+        "pdescription":"Buy fresh yellow designer banarasi saree online with embroidered silk blouse on KARAGIRI.",
+        "price":10000,
+        "img":"https://app.digitalindiacorporation.in/v1/digi/wp-content/uploads/2021/06/image-1.jpg"
+    },
+    {
+        "pid":3,
+        "pname":"Nauvari Saree",
+        "pdescription":" A normal saree is about 5.5-6 yards but a traditional nauvari saree is of nine yards which makes it unique.",
+        "price":3000,
+        "img":"https://www.k4fashion.com/wp-content/uploads/2022/03/yellow-and-purple-combo-looks-great-marathi-bridal-nauvari-saree-designs.jpg"
+    },
+    {
+        "pid":4,
+        "pname":"Bomkai Saree ",
+        "pdescription":"Bhoomika Sarees Art Silk and Fancy Sarees in Vadgoan Belgaum, Belgaum is known to satisfactorily cater to the demands of its customer base.",
+        "price":1500,
+        "img":"https://content-d11d.kxcdn.com/pub/media/catalog/product/cache/7632e47dd760b8c72870b274772588ab/a/d/adi3470607.jpg"
+    },
+    {
+        "pid":5,
+        "pname":"Tant Saree",
+        "pdescription":"Graceful and gorgeous, this cotton saree for women from the house of WoodenTant",
+        "price":1000,
+        "img":"https://m.media-amazon.com/images/I/71VYrz9vLqL._UX569_.jpg"
+    },
+    {
+        "pid":6,
+        "pname":"Chikankari Saree",
+        "pdescription":"From the Nawabi city of Lucknow comes the fabric stitched with sophistication – Chikankari.",
+        "price":2000,
+        "img":"https://images.bewakoof.com/utter/content/4472/content_Chikankari_Saree-_Different_Types_of_Sarees.png"
+    }
+]

@@ -1,0 +1,18 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    background-color:rgb(37, 133, 173);
+    padding: 2% 2%;
+
+}
+button{
+    background-color: black;
+    color: aliceblue;
+}
+button:hover{
+    color:white;
+}
+.error{
+    color: red;
+}
+
