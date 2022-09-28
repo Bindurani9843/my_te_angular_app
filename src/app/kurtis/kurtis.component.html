@@ -27,6 +27,7 @@
                             <br>
                             Price: {{k.price | currency:'INR'}}
                             <br>
+                            
                             <app-counter></app-counter>
                         </div>
                     </div>
@@ -37,6 +38,10 @@
         <div class="col col-lg-3">
             <!--Property Binding-->
             <img [src]="k.img" class="prodimg">
+            <br><input type="number" name="quantity" [(ngModel)]="quantity" style="width:50px;border-radius:10px;" min="1" max="25">
+                Quantity: 
+                <br>
+                <button class="btn btn-dark m-3" (click)="addToCart(product)" style="width:150px;border-radius:10px;">Add to Cart</button>
         </div>
     </div>
 </div>

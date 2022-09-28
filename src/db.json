@@ -1,0 +1,197 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "pname": " Anarkali Kurti",
+      "pdescription": "It was the most worn trend in weddings, festivals, and other such occasions.",
+      "price": 2000,
+      "img": "https://www.jiofab.com/media/catalog/product/cache/17b9859701dc227f0a66cf4f67484d0c/d/a/dark-mauve-rayon-anarkali-kurti-jf101858.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "Dhoti Style Kurti",
+      "pdescription": "The Dhoti style is the new trend that has been making its mark.",
+      "price": 1800,
+      "img": "https://i.pinimg.com/736x/d0/0a/42/d00a42df049da6abfb1dede7dec01ce1.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "Color Block Kurti ",
+      "pdescription": " Color block Kurti is Kurtis that have contrasting and bright color blocks.",
+      "price": 1000,
+      "img": "https://rukminim1.flixcart.com/image/832/832/kvwpt3k0/kurta/l/b/5/xxl-white-blue-eternis-fashion-original-imag8pjwgrkczapx.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "pname": "Indo-Western Kurtis",
+      "pdescription": "These modern Kurtis can be worn with a pair of shot, pants, jeans, jeggings, leggings, stockings, etc. ",
+      "price": 2500,
+      "img": "https://stylesatlife.com/wp-content/uploads/2017/12/Fancy-Layered-Kurti.jpg"
+    },
+    {
+      "id": 6,
+      "pname": " Kurti with a Jacket",
+      "pdescription": "it is generally paired with matching churidar, palazzos, straight pants, leggings, jeans, jeggings.",
+      "price": 3000,
+      "img": "https://rukminim1.flixcart.com/image/612/612/l15bxjk0/kurta/s/2/2/xxl-6108-shyam-feb-original-imagcsymxrjrfg7c.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "pname": "Kids Dress",
+      "pdescription": "Kids dress for girls betwwn 8-10 years old",
+      "price": 2000,
+      "Status": "In Stock",
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14787362/2022/7/28/6969c1d4-209d-4d8d-814e-89e0d79007a81659031779178pspeachesGirlsYellowLeheriyaPureCottonKurtawithPalazzosWithD1.jpg"
+    },
+    {
+      "id": 8,
+      "pname": "Jacket",
+      "pdescription": "Farah hardy jacket",
+      "price": 6000,
+      "Status": "In Stock",
+      "img": "https://cdna.lystit.com/200/250/tr/photos/trouva/510e69ab/farah--Chaqueta-con-capucha-Westchester.jpeg"
+    },
+    {
+      "id": 9,
+      "pname": "Jabra Headphones",
+      "pdescription": "Jabra iconic headphones",
+      "price": 1750,
+      "Status": "Out of Stock",
+      "img": "https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 10,
+      "pname": "Kids Toys",
+      "pdescription": "Kids toys for girls betwwn 4-6 years old",
+      "price": 1200,
+      "Status": "In Stock",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HgA9959WV4k0WKCSDBSqDUj8RTgZ24kltw&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "pname": "Kanjeevaram Saree",
+      "pdescription": "Vivacious colors, royal borders, and the rich silk give Kanjeevaram Saree an ornate aura.",
+      "price": 50000,
+      "img": "https://images.bewakoof.com/utter/content/4460/content_Kanjeevaram_Saree_-_Different_Types_of_Sarees.png"
+    },
+    {
+      "id": 12,
+      "pname": "Banarasi saree",
+      "pdescription": "Buy fresh yellow designer banarasi saree online with embroidered silk blouse on KARAGIRI.",
+      "price": 10000,
+      "img": "https://app.digitalindiacorporation.in/v1/digi/wp-content/uploads/2021/06/image-1.jpg"
+    },
+    {
+      "id": 13,
+      "pname": "Nauvari Saree",
+      "pdescription": " A normal saree is about 5.5-6 yards but a traditional nauvari saree is of nine yards which makes it unique.",
+      "price": 3000,
+      "img": "https://www.k4fashion.com/wp-content/uploads/2022/03/yellow-and-purple-combo-looks-great-marathi-bridal-nauvari-saree-designs.jpg"
+    },
+    {
+      "id": 14,
+      "pname": "Tant Saree",
+      "pdescription": "Graceful and gorgeous, this cotton saree for women from the house of WoodenTant",
+      "price": "1500",
+      "img": "https://m.media-amazon.com/images/I/71VYrz9vLqL._UX569_.jpg"
+    },
+    {
+      "id": 15,
+      "pname": "Chikankari Saree",
+      "pdescription": "From the Nawabi city of Lucknow comes the fabric stitched with sophistication – Chikankari.",
+      "price": 2000,
+      "img": "https://images.bewakoof.com/utter/content/4472/content_Chikankari_Saree-_Different_Types_of_Sarees.png"
+    },
+    {
+      "id": 16,
+      "pname": "Top",
+      "pdescription": "Women Off-White Puff Sleeve Faux Fur Solid Sweatshirt",
+      "price": "1200",
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12737904/2020/10/19/7f550f4b-8a3d-4cac-bb53-6537161754711603103037956-SASSAFRAS-Women-Sweatshirts-1101603103036418-1.jpg"
+    },
+    {
+      "id": 17,
+      "pname": "Top",
+      "pdescription": "Tops",
+      "price": "800",
+      "img": null
+    }
+  ],
+  "users": [
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 3
+    },
+    {
+      "username": "Bindu",
+      "useremail": "bindurani9843@gmail.com",
+      "password": "bindu@123",
+      "mobile": "",
+      "id": 5
+    },
+    {
+      "username": "Bindurani",
+      "useremail": "bindurani9843@gmail.com",
+      "password": "",
+      "mobile": "",
+      "id": 8
+    },
+    {
+      "username": "Janvi",
+      "useremail": "janvi123@gmail.com",
+      "password": "janvi123",
+      "mobile": "8989876567",
+      "id": 9
+    },
+    {
+      "username": "Rashmi",
+      "useremail": "rashmi123@gmail.com",
+      "password": "1234",
+      "mobile": "8989876567",
+      "id": 10
+    },
+    {
+      "username": "Sanvi",
+      "useremail": "sanvi123@gmail.com",
+      "password": "sanvi123",
+      "mobile": "9876545678",
+      "id": 11
+    },
+    {
+      "username": "sam",
+      "useremail": "sam123@gmail.com",
+      "password": "sam123",
+      "mobile": "8989876567",
+      "id": 12
+    }
+  ],
+  "cart": [
+    {
+      "pname": "Top",
+      "pdescription": "Tops",
+      "price": 1000,
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12737904/2020/10/19/7f550f4b-8a3d-4cac-bb53-6537161754711603103037956-SASSAFRAS-Women-Sweatshirts-1101603103036418-1.jpg",
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "pname": "Tail Kurti ",
+      "pdescription": "The tail Kurtis can be paired with stockings, leggings, jeans, and jeggings. ",
+      "price": 750,
+      "img": "https://img1.exportersindia.com/product_images/bc-full/dir_150/4485191/tail-cut-kurti-1492406921-2864801.jpeg",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "pname": "Kids Dress",
+      "pdescription": "Kids dress for girls betwwn 8-10 years old",
+      "price": 2000,
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14787362/2022/7/28/6969c1d4-209d-4d8d-814e-89e0d79007a81659031779178pspeachesGirlsYellowLeheriyaPureCottonKurtawithPalazzosWithD1.jpg",
+      "quantity": 1,
+      "id": 4
+    }
+  ]
+}

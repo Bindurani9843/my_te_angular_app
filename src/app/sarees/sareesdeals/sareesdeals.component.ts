@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import * as sarees from "../sarees.json";
+
+//npm install sweetalert2
+
 @Component({
   selector: 'app-sareesdeals',
   templateUrl: './sareesdeals.component.html',
@@ -8,7 +11,7 @@ import * as sarees from "../sarees.json";
 export class SareesdealsComponent implements OnInit {
 
   constructor() { }
-
+  
   ngOnInit(): void {
   } sarees:any=(sarees as any).default;
 

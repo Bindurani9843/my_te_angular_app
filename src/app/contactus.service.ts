@@ -9,7 +9,7 @@ export class ContactusService {
   constructor() { }
   contactus:Contactus[]=[
     {
-       img:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/2048px-Google_Contacts_icon.svg.png',
+       img:'https://icons.iconarchive.com/icons/blackvariant/shadow135-system/1024/Contacts-icon.png',
       pid: 12298,
         pname: 'Daniel Klein',
         pemail: 'dklaien.1@gmail.com',
@@ -18,7 +18,7 @@ export class ContactusService {
         
       },
       {
-        img:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/2048px-Google_Contacts_icon.svg.png',
+        img:'https://icons.iconarchive.com/icons/blackvariant/shadow135-system/1024/Contacts-icon.png',
        pid: 12299,
          pname: 'Rebecca',
          pemail: 'rebecca.23@gmail.com',
@@ -27,7 +27,7 @@ export class ContactusService {
          
        },
        {
-        img:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/2048px-Google_Contacts_icon.svg.png',
+        img:'https://icons.iconarchive.com/icons/blackvariant/shadow135-system/1024/Contacts-icon.png',
        pid: 12300,
          pname: 'S.Deepu',
          pemail: 'sdeepu.23@gmail.com',
@@ -35,7 +35,7 @@ export class ContactusService {
          pqueries:'Manage Your Account',
        },
        {
-        img:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/2048px-Google_Contacts_icon.svg.png',
+        img:'https://icons.iconarchive.com/icons/blackvariant/shadow135-system/1024/Contacts-icon.png',
        pid: 12301,
          pname: 'Vineetha',
          pemail: 'y.vineetha.23@gmail.com',

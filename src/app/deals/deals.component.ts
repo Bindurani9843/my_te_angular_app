@@ -1,19 +1,18 @@
-import { Component, OnInit, Input } from '@angular/core';
-import * as kurtis from "../data/kurtis.json";
+import { Component, OnInit ,Input} from '@angular/core';
+//Add to Cart
 import { CartService } from '../cart.service';
 import { Cartitem } from '../cartitem';
 //npm install sweetalert2
 import Swal from 'sweetalert2';
-
-
 @Component({
-  selector: 'app-kurtis',
-  templateUrl: './kurtis.component.html',
-  styleUrls: ['./kurtis.component.css']
+  selector: 'app-deals',
+  templateUrl: './deals.component.html',
+  styleUrls: ['./deals.component.css']
 })
-export class KurtisComponent implements OnInit {
-
+export class DealsComponent implements OnInit {
+//constructor injection
   constructor(private cartsvc:CartService) { }
+  //Add to cart
   cart:Cartitem={
     pid:0,
     pname:'',
@@ -53,11 +52,8 @@ export class KurtisComponent implements OnInit {
   //Input Class Decorator
   @Input()product:any
 
-
-
   ngOnInit(): void {
-  }kurtis:any=(kurtis as any).default;
-
+  }
   //Toggle effect to show and hide the pdescription and price
   //Property for toggle effect
   productDetail=false;
@@ -71,13 +67,12 @@ export class KurtisComponent implements OnInit {
   toggleContent(){
     var content='';
     if(this.productDetail){
-      content='fa-solid fa-arrow-up';
+      content='fa fa-plus';
     }
     else{
-      content='fa-solid fa-arrow-down';
+      content='fa fa-minus';
     }
     return content;
   }
+
 }
-
-

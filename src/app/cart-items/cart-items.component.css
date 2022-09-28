@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: rgb(240, 252, 253);
+}
+img{
+    height:100px;
+    width:100px;
+}
+h3{
+    color:rgb(3, 12, 15);
+    font-size: 14px;
+}

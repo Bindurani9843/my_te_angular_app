@@ -1,0 +1,42 @@
+input {
+    width: 60%;
+    margin-left: 100px;
+}
+
+label {
+    color:red;
+    margin-left: 100px;
+}
+
+form {
+    padding: 20px;
+    margin-left: 500px;
+    width: 40%;
+    border-style: inset;
+    border-radius: 10px;
+    border-color: rgb(168, 51, 51);
+    box-shadow: 2px 3px 4px rgb(42, 119, 182);
+  
+}
+
+form:hover {
+    color: rgb(151, 40, 53);
+    background-color: rgb(106, 182, 193);
+    transform:scale(1.2);
+    background-image:"https://assets.materialup.com/uploads/f96d251f-ff7b-4116-9f8c-5108e4b579d0/preview.jpg"
+
+}
+
+button {
+    margin-left: 230px;
+}
+
+span {
+    width: 100%;
+}
+img{
+    height:50px;
+    width:50px;  
+    margin-left: 235px;
+  margin-right: 235px;
+}

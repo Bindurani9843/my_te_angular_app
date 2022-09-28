@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 import * as allprod from "../data/allproducts.json";
+
 //import microoven service and class
 import { Tops } from '../tops';
 import { TopsService } from '../tops.service';
@@ -14,6 +15,8 @@ export class TopsComponent implements OnInit {
   tops: Tops[]=[];
   //constructor injection of the MicroovenService
   constructor(private topsservice:TopsService) { }
+  
+
 
   ngOnInit(): void {
     const topsObservable= this.topsservice.getTopsDetails();

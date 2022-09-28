@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 //accessing ngModel for 2-way binding
+import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -17,9 +18,15 @@ import { AdvertisementComponent } from './advertisement/advertisement.component'
 import { FooterComponent } from './footer/footer.component';
 import { CounterComponent } from './counter/counter.component';
 import { CounterchildComponent } from './counter/counterchild/counterchild.component';
-import { RegisterformComponent } from './registerform/registerform.component';
+import { RegisterComponent } from './register/register.component';
 import { TopsComponent } from './tops/tops.component';
 import { ContactusComponent } from './contactus/contactus.component';
+import { ProductdetailsComponent } from './productdetails/productdetails.component';
+import { LoginComponent } from './login/login.component';
+import { CartItemsComponent } from './cart-items/cart-items.component';
+import { DealsComponent } from './deals/deals.component';
+import { AmazondealsComponent } from './deals/amazondeals/amazondeals.component';
+
 
 
 @NgModule({
@@ -37,16 +44,23 @@ import { ContactusComponent } from './contactus/contactus.component';
     FooterComponent,
     CounterComponent,
     CounterchildComponent,
-    RegisterformComponent,
+    RegisterComponent,
     TopsComponent,
-    ContactusComponent
+    ContactusComponent,
+    ProductdetailsComponent,
+    LoginComponent,
+    CartItemsComponent,
+    DealsComponent,
+    AmazondealsComponent
+   
    
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
