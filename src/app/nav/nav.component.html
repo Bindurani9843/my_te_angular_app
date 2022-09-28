@@ -13,14 +13,16 @@
             <a class="nav-link active" aria-current="page" routerLink="">Home</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" routerLink="admin" >Admin</a>
+          </li>
+          
+          <li class="nav-item">
             <a class="nav-link" routerLink="register"  *ngIf="!auth">Register</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" routerLink="contactus"  *ngIf="auth">Contact</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" routerLink="productdetails"  *ngIf="auth">Productdetails</a>
-          </li>
+         
           
           <li class="nav-item">
             <a class="nav-link" routerLink="cards"  *ngIf="auth">Products</a>

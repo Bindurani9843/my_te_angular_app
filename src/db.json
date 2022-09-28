@@ -8,13 +8,6 @@
       "img": "https://www.jiofab.com/media/catalog/product/cache/17b9859701dc227f0a66cf4f67484d0c/d/a/dark-mauve-rayon-anarkali-kurti-jf101858.jpg"
     },
     {
-      "id": 3,
-      "pname": "Dhoti Style Kurti",
-      "pdescription": "The Dhoti style is the new trend that has been making its mark.",
-      "price": 1800,
-      "img": "https://i.pinimg.com/736x/d0/0a/42/d00a42df049da6abfb1dede7dec01ce1.jpg"
-    },
-    {
       "id": 4,
       "pname": "Color Block Kurti ",
       "pdescription": " Color block Kurti is Kurtis that have contrasting and bright color blocks.",
@@ -192,6 +185,15 @@
       "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14787362/2022/7/28/6969c1d4-209d-4d8d-814e-89e0d79007a81659031779178pspeachesGirlsYellowLeheriyaPureCottonKurtawithPalazzosWithD1.jpg",
       "quantity": 1,
       "id": 4
+    }
+  ],
+  "Admin": [
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 3
     }
   ]
 }

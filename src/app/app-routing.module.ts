@@ -14,6 +14,7 @@ import { ProductdetailsComponent } from './productdetails/productdetails.compone
 import { LoginComponent } from './login/login.component';
 import { CartItemsComponent } from './cart-items/cart-items.component';
 import { AmazondealsComponent } from './deals/amazondeals/amazondeals.component';
+import { AdminComponent } from './admin/admin.component';
 
 //Configure the routing path for the above imported components
 const routes: Routes = [
@@ -29,7 +30,8 @@ const routes: Routes = [
   {path:'contactus',component:ContactusComponent},
   {path:'productdetails',component:ProductdetailsComponent},
   {path:'cartitem',component:CartItemsComponent},
-  {path:'deals',component:AmazondealsComponent}
+  {path:'deals',component:AmazondealsComponent},
+  {path:'admin',component:AdminComponent},
 ];
 
 @NgModule({
